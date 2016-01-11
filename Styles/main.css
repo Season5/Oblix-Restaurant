@@ -1,0 +1,33 @@
+.header  {
+    float: right;
+    
+}
+*{
+    margin: 0;
+}
+.container{
+    width: 50%;
+    height: 300px;
+    float: left;
+}
+.container2{
+    width: 50%;
+    height: 300px;
+    float: left
+}
+h3 {
+    text-align: center;
+}
+.main-body {
+    padding: 20%;
+    
+}
+
+/*
+.container3{
+    background-color: blueviolet;
+    width: 400px;
+    height: 300px;
+    margin-left: 30%;
+    padding-top: 00px
+}*/
